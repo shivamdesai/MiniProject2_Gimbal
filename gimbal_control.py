@@ -10,7 +10,7 @@ DOWN = chr(80)
 UP = chr(72)
 
 # Set parameters for servo commands
-INC_VAL = 2**9
+INC_VAL = 2**10
 MAX_VAL = 2**16 - 1 # 16 bit unsigned int
 MIN_VAL = 0
 
